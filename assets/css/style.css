@@ -1,0 +1,49 @@
+#cartoon {
+    text-align: center;
+    margin: 20px;
+    position: relative;
+    height: 300px;
+    margin-left: -125px;
+    
+}
+
+#word {
+    text-align: center;
+    margin: 20px;
+    height: 100px;
+    position: relative;
+    font-size: 36px;
+    text-transform: capitalize;
+    font-family: 'Yatra One', cursive;
+
+    
+}
+
+#keyboard {
+    text-align: center;
+    margin: 20px;
+    height: 100px;
+    position: relative;
+   
+}
+
+.container {
+    width: 100%;
+    margin:auto;
+
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+img {
+    visibility: hidden;
+    position: absolute;
+}
+
+button {
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
